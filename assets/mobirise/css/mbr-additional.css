@@ -1398,66 +1398,63 @@ body {
 .cid-rQWqbD7Hw9 .mbr-section-subtitle B {
   color: #31383e;
 }
-.cid-rQWsDKjQwE {
-  padding-top: 45px;
-  padding-bottom: 0px;
+.cid-rQXk5HhME7 {
+  padding-top: 90px;
+  padding-bottom: 90px;
   background-color: #ffffff;
 }
-.cid-rQWsDKjQwE .mbr-section-subtitle {
-  color: #767676;
+.cid-rQXk5HhME7 .mbr-section-subtitle {
+  color: #31383e;
 }
-.cid-rQWsDKjQwE .media-container-row {
+.cid-rQXk5HhME7 .media-container-row {
   -webkit-flex-wrap: wrap;
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
 }
-.cid-rQWsDKjQwE .mbr-text {
+.cid-rQXk5HhME7 .mbr-text {
   color: #767676;
 }
-.cid-rQWsDKjQwE .mbr-author-desc {
+.cid-rQXk5HhME7 .mbr-author-desc {
   display: block;
   color: #767676;
 }
-.cid-rQWsDKjQwE .mbr-author-name {
+.cid-rQXk5HhME7 .mbr-author-name {
   color: #767676;
 }
-.cid-rQWsDKjQwE .mbr-testimonial .panel-item {
+.cid-rQXk5HhME7 .mbr-testimonial .panel-item {
   background-color: #ffffff;
 }
-.cid-rQWsDKjQwE .mbr-testimonial .card-block {
+.cid-rQXk5HhME7 .mbr-testimonial .card-block {
   -webkit-flex-grow: 0;
   flex-grow: 0;
-  padding: 1rem 1rem 0 1rem;
+  padding: 2px 2px 0 2px;
 }
-.cid-rQWsDKjQwE .mbr-testimonial .card-block .testimonial-photo {
+.cid-rQXk5HhME7 .mbr-testimonial .card-block .testimonial-photo {
   display: inline-block;
-  width: 130px;
-  height: 130px;
-  margin-bottom: 1.4rem;
+  width: 120px;
+  height: 120px;
+  margin-bottom: 1px;
   overflow: hidden;
-  border-radius: 50%;
+  border-radius: 0%;
 }
-.cid-rQWsDKjQwE .mbr-testimonial .card-block .testimonial-photo img {
+.cid-rQXk5HhME7 .mbr-testimonial .card-block .testimonial-photo img {
   width: 100%;
   min-width: 100%;
   min-height: 100%;
 }
-.cid-rQWsDKjQwE .mbr-testimonial .card-footer {
-  padding-bottom: 1.5rem;
+.cid-rQXk5HhME7 .mbr-testimonial .card-footer {
+  padding-bottom: 1px;
   border-top: 0;
-  padding-top: 0.5rem;
+  padding-top: 1rem;
   word-wrap: break-word;
   word-break: break-word;
   background: none;
 }
 @media (max-width: 300px) {
-  .cid-rQWsDKjQwE .testimonial-photo {
+  .cid-rQXk5HhME7 .testimonial-photo {
     width: 100% !important;
     height: auto !important;
   }
-}
-.cid-rQWsDKjQwE H1 {
-  color: #31383e;
 }
 .cid-qIeNL7ScGc {
   padding-top: 45px;
