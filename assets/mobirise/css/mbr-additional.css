@@ -1480,6 +1480,9 @@ body {
   display: block;
   text-align: center;
 }
+.cid-rQWqbD7Hw9 .mbr-section-subtitle B {
+  color: #31383e;
+}
 .cid-rQWsDKjQwE {
   padding-top: 45px;
   padding-bottom: 0px;
@@ -1509,12 +1512,12 @@ body {
 .cid-rQWsDKjQwE .mbr-testimonial .card-block {
   -webkit-flex-grow: 0;
   flex-grow: 0;
-  padding: 2.4rem 2.4rem 0 2.4rem;
+  padding: 1rem 1rem 0 1rem;
 }
 .cid-rQWsDKjQwE .mbr-testimonial .card-block .testimonial-photo {
   display: inline-block;
-  width: 120px;
-  height: 120px;
+  width: 130px;
+  height: 130px;
   margin-bottom: 1.4rem;
   overflow: hidden;
   border-radius: 50%;
@@ -1525,7 +1528,7 @@ body {
   min-height: 100%;
 }
 .cid-rQWsDKjQwE .mbr-testimonial .card-footer {
-  padding-bottom: 2.4rem;
+  padding-bottom: 1.5rem;
   border-top: 0;
   padding-top: 0.5rem;
   word-wrap: break-word;
