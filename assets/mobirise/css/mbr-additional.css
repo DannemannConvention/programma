@@ -1457,6 +1457,12 @@ body {
 .cid-rQWqbD7Hw9 .mbr-section-subtitle B {
   color: #31383e;
 }
+@media (max-width: 767px) {
+  .cid-rQWqbD7Hw9 .btn {
+    font-size: 25px !important;
+    line-height: 1.5;
+  }
+}
 .cid-qIeNL7ScGc {
   padding-top: 45px;
   padding-bottom: 75px;
